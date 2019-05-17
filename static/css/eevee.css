@@ -408,6 +408,10 @@ div.eevee-comment div.muut {
     min-height: 80px;
 }
 
+.mdl-mega-footer--bottom-section {
+    text-align: center;
+}
+
 .eevee-footer a, .mdl-logo a {
     color: rgb(255, 255, 255);
     text-decoration: none;
