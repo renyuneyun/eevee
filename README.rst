@@ -5,7 +5,10 @@ Eevee - A Material Design theme for Pelican
     :alt: Eevee the Pokémon
     :align: center
 
-Please see the `official documentation <https://kura.io/eevee/>`__ for more
+
+   This is the fork by renuneyun, for my own use in my `blog <https://blog.ryey.icu>`_\ . It has additional features and bug fixes. I'll try to send PRs as much as possible, but how upstream reacts is totally by kura.
+
+Please see the `official documentation <https://kura.github.io/eevee>`__ for more
 information.
 
 Features
